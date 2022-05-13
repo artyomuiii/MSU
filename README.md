@@ -1,2 +1,2 @@
 # MSU
-Projects, laboratory and homework assignments
+Projects, laboratory and homework assignments.
