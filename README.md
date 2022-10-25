@@ -1,2 +1,2 @@
-# MSU
-Projects, laboratory and homework assignments.
+# ВМК МГУ
+Проекты, лабораторные работы и домашние задания.
